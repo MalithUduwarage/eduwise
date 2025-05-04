@@ -1,0 +1,2 @@
+PHP Version 8.2.4
+Database Version MySQL
